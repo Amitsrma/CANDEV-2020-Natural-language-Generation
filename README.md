@@ -1,6 +1,6 @@
 # CANDEV-2020-Natural-language-Generation
 This is the attempt we made towards solving the challenge. We went mechanical over Language generation instead of using Neural Network or N-grams or skip-grams because of one of the requirements which stated that our result should be legible and perfect.
-Our process on data analysis included:
+<br>Our process on data analysis included:
 <ol>
   <li>Downloaded the data from statcan website.</li>
   <li>Removed columns that were irrelevant.</li>
